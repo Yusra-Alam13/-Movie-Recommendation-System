@@ -86,7 +86,7 @@ See the [LICENSE](LICENSE) file for more information.
 
 ## 👤 Author
 
-- *Your Name*  
+- Syeda Yusra Arshad
 [GitHub](https://github.com/Yusra-Alam13)
 
 ---
